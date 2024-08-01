@@ -1,0 +1,41 @@
+
+\item[1.] Baisas, L. (2024, June 26). Iceland's 'unparalleled' volcanic activity could continue for decades. Popular Science. Accessed July 2024 from \href{https://www.popsci.com/science/reykjanes-iceland-volcanos/}{\texttt{link}}
+
+\item[2.] Bormann, P. (Ed.). (2012). New Manual of Seismological Observatory Practice (NMSOP-2). Potsdam: Deutsches GeoForschungszentrum GFZ; IASPEI. \href{https://doi.org/10.2312/GFZ.NMSOP-2}{\texttt{https://doi.org/10.2312/GFZ.NMSOP-2}}
+
+\item[3.] Chouet, B. A., \& Matoza, R. S. (2013). A multi-decadal view of seismic methods for detecting precursors of magma movement and eruption. Journal of Volcanology and Geothermal Research, 252(Supplement C), 108–175, \href{https://doi.org/10.1016/j.jvolgeores.2012.11.013}{\texttt{https://doi.org/10.1016/j.jvolgeores.2012.11.013}}
+
+\item[4.] EGU Blogs. (2024). Details on the January 2024 Eruption in Iceland. European Geosciences Union.
+
+\item[5.] Einarsson, P. (2018). Seismicity and Magmatic Activity in the Reykjanes Peninsula. Journal of Volcanology and Geothermal Research, 341, 100-110.
+
+\item[6.] Emergency Response Coordination Centre (ERCC). (2024, March 18). Iceland: Volcanic eruption on Reykjanes Peninsula - DG ECHO Daily Map. ReliefWeb. Accessed August 1, 2024, from \href{https://reliefweb.int/map/iceland/iceland-volcanic-eruption-reykjanes-peninsula-dg-echo-daily-map-18032024}{\texttt{link}}
+
+\item[7.] Fulton, C. (2024, January 10). So, what happens now? Perspectives on the future of the Reykjanes Peninsula. The Reykjavik Grapevine. Accessed from \href{https://grapevine.is/mag/feature/2024/01/10/so-what-happens-now-perspectives-on-the-future-of-the-reykjanes-peninsula/}{\texttt{link}}
+
+\item[8.] Global Volcanism Program. (2024). Iceland Weekly Volcanic Activity Reports. Smithsonian Institution.
+
+\item[9.] Heimann, S., Kriegerowski, M., Isken, M., Cesca, S., Daout, S., Grigoli, F., Juretzek, C., Megies, T., Nooshiri, N., Steinberg, A., Sudhaus, H., Vasyura-Bathke, H., Willey, T., Dahm, T.(2017): Pyrocko - An open-source seismology toolbox and library, Potsdam : GFZ Data Services., \\href{https://doi.org/10.5880/GFZ.2.1.2017.001}{\texttt{https://doi.org/10.5880/GFZ.2.1.2017.001}}
+
+\item[10.] Hernández-Aguirre, V. M., et al. (2023). Magma Movement and Seismic Activity in Iceland. Geophysical Research Letters, 150(7), 987-1002.
+
+\item[11.] Icelandic Institute of Natural History. (n.d.). Volcanic activity. Accessed from \\href{https://www.ni.is/en/geology/volcanic-activity}{\texttt{https://www.ni.is/en/geology/volcanic-activity}}, Accessed July 2024.
+
+\item[12.] Icelandic Meteorological Office. (2024, July 30). Increased probability of a dike propagation and a volcanic eruption in the coming days, Accessed July 2024 from \href{https://en.vedur.is/about-imo/news/volcanic-unrest-grindavik}{\texttt{link}}
+
+\item[13.] Marielle Malfante, Mauro Dalla Mura, Jerome I. Mars, Jean-Philippe Métaxian, Orlando Macedo, et al.. Automatic classification of volcano seismic signatures. Journal of Geophysical Research, 2018,
+123 (12), pp.10,645-10,658. doi: 10.1029/2018jb015470
+
+\item[14.] National Land Survey of Iceland. (n.d.). Reykjanes volcanic systems [Map]. Accessed August 1, 2024, from \href{https://commons.wikimedia.org/wiki/File:Reykjanes_volcanic_systems.png}{\texttt{https://commons.wikimedia.org/wiki/File:Reykjanes\_volcanic\_systems.png}}
+
+\item[15.] Parks, M., Sigmundsson, F., Barsotti, S., Geirsson, H., Vogfjörð, K. S., Ófeigsson, B., Einarsson, P. (n.d.). Fagradalsfjall eruption. Icelandic Meteorological Office. Accessed August 1, 2024, from \href{https://en.vedur.is/volcanoes/fagradalsfjall-eruption/}{\texttt{https://en.vedur.is/volcanoes/fagradalsfjall-eruption/}}
+
+\item[16.] Solada, K., \& Daniels, K. S. (2021). Principles of Earth Science. Open Oregon Educational Resources. Accessed August 1, 2024, from \href{https://openoregon.pressbooks.pub/earthscience/}{\texttt{https://openoregon.pressbooks.pub/earthscience/}}
+
+\item[17.] The Washington Post, Volcano Eruption in Iceland near Grindavik. (2024, February 8). Accessed from \href{https://www.washingtonpost.com/world/2024/02/08/maps-volcano-eruption-iceland-grindavik/}{\texttt{link}}, Accessed July 2024.
+
+\item[18.] Thordarson, T. and Hoskuldsson, A. (2008). Postglacial volcanism in Iceland. Jokull, 58(1). \href{https://doi.org/10.33799/jokull2008.58.197}{\texttt{https://doi.org/10.33799/jokull2008.58.197}}
+
+\item[19.] Troll, V. R., Deegan, F. M., Thordarson, T., Tryggvason, A., Krmíček, L., Moreland, W. M., Lund, B., Bindeman, I. N., Höskuldsson, Á., Day, J. M. D. (2024). The Fagradalsfjall and Sundhnúkur Fires of 2021–2024: A single magma reservoir under the Reykjanes Peninsula, Iceland? Terra Nova. \href{https://doi.org/10.1111/ter.12733}{\texttt{https://doi.org/10.1111/ter.12733}}
+
+\item[20.] Yuan, S., Simonelli, A., Lin, C. J., Bernauer, F., Donner, S., Braun, T., et al. (2020). Six degree-of-freedom broadband ground-motion observations with portable sensors: Validation, local earthquakes, and signal processing. Bulletin of the Seismological Society of America, 110(3), 953–969. \href{https://doi.org/10.1785/0120190277}{https://doi.org/10.1785/0120190277}
