@@ -1,30 +1,30 @@
-## Volcano Seismology Project 
-Student: Iulia-Ștefania Armeanu 
+# Volcano Seismology Project 
+**Student:** Iulia-Ștefania Armeanu 
 
-Notebooks:
+## Notebooks:
 
-  1. backazimuth.ipynb
+  1. **`backazimuth.ipynb`**
 
-Purpose: Calculate back azimuth (BAZ) from horizontal rotation rate data.
-Key Function: calculate_baz_horiz()
-Output: Time vector, BAZ vector, and visualizations.
+     - **Purpose:** Calculate back azimuth (BAZ) from horizontal rotation rate data.
+     - **Key Function:** `calculate_baz_horiz()`
+     - **Output:** Time vector, BAZ vector, and visualizations.
 
-  2. plot events in time.ipynb
+  2. **`plot events in time.ipynb`**
 
-Purpose: Visualize seismic events over time.
-Processes: Reads event data, calculates P-S phase differences, and plots event occurrences.
+     - **Purpose:** Visualize seismic events over time.
+     - **Processes:** Reads event data, calculates P-S phase differences, and plots event occurrences.
 
-  3.waveform_visualisation_allday.ipynb
+  3. **`waveform_visualisation_allday.ipynb`**
 
-Purpose: Visualize daily seismic waveforms.
-Output: Continuous waveform plots for an entire day.
+     - **Purpose:** Visualize daily seismic waveforms.
+     - **Output:** Continuous waveform plots for an entire day.
 
-  4.waveform_visualisation_combined.ipynb
+  4. **`waveform_visualisation_combined.ipynb`**
 
-Purpose: Combine and visualize multiple waveform datasets.
-Output: Overlaid waveform plots for comparison.
+     - **Purpose:** Combine and visualize multiple waveform datasets.
+     - **Output:** Overlaid waveform plots for comparison.
 
-  5.waveforms_visualisation.ipynb
+  5. **`waveforms_visualisation.ipynb`**
 
-Purpose: Visualize and analyze seismic waveforms.
-Output: Detailed waveform plots with analysis.
+     - **Purpose:** Visualize and analyze seismic waveforms.
+     - **Output:** Detailed waveform plots with analysis.
